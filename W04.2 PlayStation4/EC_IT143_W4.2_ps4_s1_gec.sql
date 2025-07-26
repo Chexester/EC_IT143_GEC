@@ -1,0 +1,1 @@
+-- Question: Which PlayStation 4 games released in 2018 had the highest sales?
